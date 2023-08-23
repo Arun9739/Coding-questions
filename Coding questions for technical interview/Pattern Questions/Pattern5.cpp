@@ -1,8 +1,8 @@
 /*Program to generate the pattern 
+
 * 
 * *
 * * *
-* * * *
 * * * *
 * * * * *
 * * * * * *
@@ -13,6 +13,7 @@
 * * *
 * *
 *
+
 */
 
 #include <iostream>
